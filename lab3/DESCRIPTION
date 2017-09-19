@@ -10,3 +10,5 @@ Maintainer: somaya <somkh364@student.liu.se>
 Description: compute the GCD.
 License: CC0
 RoxygenNote: 6.0.1
+Suggests: testthat
+Depends: R (>= 2.10)

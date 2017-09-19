@@ -11,9 +11,9 @@
 #' 
 euclidean <- function(a,b) {
   
-  if (a> b){ smaller = b
+  if (a> b){ smaller = abs(b)
   } else {
-    smaller = a
+    smaller = abs(a)
   }
   for (i in 1:smaller){
     if((a%%i == 0) && (b%%i == 0)){
