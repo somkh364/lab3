@@ -1,0 +1,12 @@
+Package: lab3
+Type: Package
+Title: lab3 assignment
+Version: 1.0
+Date: 2017-09-19
+Authors@R: c(
+      person("Somaya", "Khoda Bakhsh", email = "somkh364@student.liu.se", role = "cre"),
+      person("Thi", "Pham", email = "thiph169@student.liu.se", role = "aut"))
+Maintainer: somaya <somkh364@student.liu.se>
+Description: compute the GCD.
+License: CC0
+RoxygenNote: 6.0.1
